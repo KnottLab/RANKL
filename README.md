@@ -8,3 +8,6 @@ This repo is for supplementary scritps for the manuscript: ***Breast Tissue Chan
 
 
 02 - H&E slides annotation and alignment to spatial metabolomics data
+
+
+\* The example data and results files were uploaded in a separate repository: https://doi.org/10.5281/zenodo.14511008
